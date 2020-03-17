@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.fotokassa.com"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. FotoKassa - фото соревнований</name>
+    <name>FotoKassa - фото соревнований</name>
 
     <description>
         FotoKassa - ваши фото с соревнований. Здесь найдутся истории побед вашего ребенка.
